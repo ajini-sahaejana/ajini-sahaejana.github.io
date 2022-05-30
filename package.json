@@ -1,6 +1,6 @@
 {
   "name": "landingpage-react-template",
-  "homepage": "https://ajini-sahaejana.github.io/react-gh-pages",
+  "homepage": "http://ajini-sahaejana.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
