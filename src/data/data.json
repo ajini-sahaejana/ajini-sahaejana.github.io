@@ -1,0 +1,168 @@
+{
+  "Header": {
+    "title": "",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "Did you know 1 in 7 workers experience a mental illness and 75% of all mental illness has its onset before the age of 24. This is why it is imperative we take preventive action to turn these statistics around. ZENDESK is proven to lead to better attention, memory, regulation of emotions and self awareness. In turn, improvements in these areas can lead to reduced stress, anxiety and depression, better academic skills, social skills and self esteem.",
+    "Why": [
+      "Reduces the productivity loss and high turnover",
+      "Increases engagement and retention of skilled staff",
+      "increases positive emotions, life satisfaction, and self-esteem beyond the workplace",
+      "provides a creative working environment for a clearer, more focused thinking"
+    ],
+    "Why2": [
+      "supports staff with existing mental health conditions providing emotional safety",
+      "commits heightened performance, and improve stress management skills",
+      "reduces overall mental health issues and illnesses such as anxiety and depression"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-smile-o",
+      "name": "Recognize Human Emotions",
+      "text": "Track and recognize human emotions using Emotional Intelligence and Artificial Intelligence."
+    },
+    {
+      "icon": "fa fa-heartbeat",
+      "name": "Tracking Emotions and Feelings",
+      "text": "Record the personal statistics such as growth progress by tracking emotions and feelings in a regular pattern."
+    },
+    {
+      "icon": "fa fa-child",
+      "name": "Mental Wellbeing",
+      "text": "Prevent mental illnesses such as anxiety, depression, and prevent suicidal thoughts by providing meditation techniques, mental wellbeing lessons."
+    },
+    {
+      "icon": "fa fa-comments",
+      "name": "Counselling Sessions",
+      "text": "Provide support through professional counselling sessions, and 24-hour support hotline provided by a non-profit organization."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Informative",
+      "text": "Inform employees about mindfulness sessions organized by the workplace for the coworkers."
+    },
+    {
+      "icon": "fa fa-gift",
+      "name": "Company Subscription",
+      "text": "Provide free service for the company employees under a company subscription."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/1.jpg",
+      "text": "\"I've never meditated before but have tried different apps. Just started this, I like that it's easy to navigate, beneficial for any level of meditation. You can choose how long to meditate, so beginners can ease into it. The voices are very soothing and relaxing.\"",
+      "name": "Nimasha Fernando"
+    },
+    {
+      "img": "img/testimonials/2.jpg",
+      "text": "\"Amazing... Just amazing! Both the app and the creators. The only thing I knew about meditation was it's spelling when I downloaded ZenDesk, but it's really easy and friendly to those who aren't pros.\"",
+      "name": "Lakindu Kariyawasam"
+    },
+    {
+      "img": "img/testimonials/3.jpg",
+      "text": "\"I recommend ZenDesk to anyone and everyone who can use additional support. easy to use, daily access to your therapist if and as needed. and I very much like the confidentiality of the surface. it's not cheap, but it's an investment into emotional intelligence and health. just as important as having a gym membership.\"",
+      "name": "Chandima Bandara"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Zendesk ",
+    "phone": "07634412",
+    "email": "Zendesklk@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Recognise and track human emotions",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Detailed statistics report of all the employees",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Organize mindfulness programs",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Meditation and wellbeing sessions",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
