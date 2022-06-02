@@ -62,7 +62,7 @@ export const Navigation = (props) => {
             </li>
             {/* login button */}
             <li>
-              <a href='#login' className='btn btn-custom btn-custom2 btn-lg'>
+              <a href='https://ajini-sahaejana.github.io/ZenDesk-AdminApp/#/examples/Sign-in' className='btn btn-custom btn-custom2 btn-lg'>
                 Login
               </a>
             </li>

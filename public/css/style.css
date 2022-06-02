@@ -263,10 +263,11 @@ a:focus,
 }
 /* Header Section */
 .intro {
-  display: table;
-  width: 100%;
+  /* display: table; */
+  height: 100%;
+  width: auto;
   padding: 0;
-  background: url(../img/intro-bg2.png) center center no-repeat;
+  background: url(../img/intro-bg7.png) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
